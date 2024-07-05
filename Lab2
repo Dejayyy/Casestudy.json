@@ -1,152 +1,152 @@
 [
-  {
-    "Brand": "Top Brands",
-    "ProductName": "Leather Office Chair",
-    "GraphicName": "leather_office_chair.jpg",
-    "CostPrice": 120.00,
-    "MSRP": 249.99,
-    "QtyOnHand": 15,
-    "QtyOnBackOrder": 5,
-    "Description": "Ergonomic leather office chair with lumbar support and adjustable height."
-  },
-  {
-   "Brand": "Top Brands",
-    "ProductName": "Wooden Bookshelf",
-    "GraphicName": "wooden_bookshelf.jpg",
-    "CostPrice": 85.00,
-    "MSRP": 179.99,
-    "QtyOnHand": 20,
-    "QtyOnBackOrder": 7,
-    "Description": "Sturdy wooden bookshelf with five shelves for ample storage space."
-  },
-  {
-    "Brand": "Top Brands",
-    "ProductName": "Adjustable Desk Lamp",
-    "GraphicName": "desk_lamp.jpg",
-    "CostPrice": 30.00,
-    "MSRP": 59.99,
-    "QtyOnHand": 50,
-    "QtyOnBackOrder": 10,
-    "Description": "LED desk lamp with adjustable brightness and flexible neck."
-  },
-  {
-    "Brand": "Top Brands",
-    "ProductName": "Memory Foam Pillow",
-    "GraphicName": "memory_foam_pillow.jpg",
-    "CostPrice": 25.00,
-    "MSRP": 49.99,
-    "QtyOnHand": 100,
-    "QtyOnBackOrder": 20,
-    "Description": "Soft memory foam pillow providing excellent neck support and comfort."
-  },
-  {
-    "Brand": "Top Brands",
-    "ProductName": "Noise Cancelling Headphones",
-    "GraphicName": "noise_cancelling_headphones.jpg",
-    "CostPrice": 150.00,
-    "MSRP": 299.99,
-    "QtyOnHand": 30,
-    "QtyOnBackOrder": 10,
-    "Description": "Wireless noise cancelling headphones with superior sound quality and comfort."
-  },
-  {
-    "Brand": "Home Goods",
-    "ProductName": "Organic Cotton Bed Sheets",
-    "GraphicName": "cotton_bed_sheets.jpg",
-    "CostPrice": 40.00,
-    "MSRP": 89.99,
-    "QtyOnHand": 60,
-    "QtyOnBackOrder": 15,
-    "Description": "Luxurious organic cotton bed sheets with a high thread count for ultimate comfort."
-  },
-  {
-    "Brand": "Home Goods",
-    "ProductName": "Stainless Steel Water Bottle",
-    "GraphicName": "water_bottle.jpg",
-    "CostPrice": 15.00,
-    "MSRP": 29.99,
-    "QtyOnHand": 120,
-    "QtyOnBackOrder": 30,
-    "Description": "Insulated stainless steel water bottle that keeps drinks cold for 24 hours."
-  },
-  {
-    "Brand": "Home Goods",
-    "ProductName": "Yoga Mat",
-    "GraphicName": "yoga_mat.jpg",
-    "CostPrice": 20.00,
-    "MSRP": 39.99,
-    "QtyOnHand": 80,
-    "QtyOnBackOrder": 25,
-    "Description": "Non-slip yoga mat providing excellent grip and cushioning for all exercises."
-  },
-  {
-    "Brand": "Home Goods",
-    "ProductName": "Ceramic Diffuser",
-    "GraphicName": "ceramic_diffuser.jpg",
-    "CostPrice": 35.00,
-    "MSRP": 69.99,
-    "QtyOnHand": 40,
-    "QtyOnBackOrder": 10,
-    "Description": "Stylish ceramic diffuser for essential oils, perfect for aromatherapy."
-  },
-  {
-    "Brand": "Home Goods",
-    "ProductName": "Electric Toothbrush",
-    "GraphicName": "electric_toothbrush.jpg",
-    "CostPrice": 50.00,
-    "MSRP": 99.99,
-    "QtyOnHand": 70,
-    "QtyOnBackOrder": 20,
-    "Description": "Rechargeable electric toothbrush with multiple brushing modes for optimal oral hygiene."
-  },
-  {
-    "Brand": "Lifestyle Tech",
-    "ProductName": "Bluetooth Speaker",
-    "GraphicName": "bluetooth_speaker.jpg",
-    "CostPrice": 40.00,
-    "MSRP": 79.99,
-    "QtyOnHand": 90,
-    "QtyOnBackOrder": 10,
-    "Description": "Portable Bluetooth speaker with powerful sound and long battery life."
-  },
-  {
-    "Brand": "Lifestyle Tech",
-    "ProductName": "Wireless Mouse",
-    "GraphicName": "wireless_mouse.jpg",
-    "CostPrice": 25.00,
-    "MSRP": 49.99,
-    "QtyOnHand": 100,
-    "QtyOnBackOrder": 15,
-    "Description": "Ergonomic wireless mouse with customizable buttons and high precision."
-  },
-  {
-    "Brand": "Lifestyle Tech",
-    "ProductName": "Smart Watch",
-    "GraphicName": "smart_watch.jpg",
-    "CostPrice": 100.00,
-    "MSRP": 199.99,
-    "QtyOnHand": 50,
-    "QtyOnBackOrder": 20,
-    "Description": "Smart watch with fitness tracking, notifications, and customizable watch faces."
-  },
-  {
-    "Brand": "Lifestyle Tech",
-    "ProductName": "USB-C Hub",
-    "GraphicName": "usb_c_hub.jpg",
-    "CostPrice": 30.00,
-    "MSRP": 59.99,
-    "QtyOnHand": 70,
-    "QtyOnBackOrder": 10,
-    "Description": "Multi-port USB-C hub for expanding connectivity options for your devices."
-  },
-  {
-    "Brand": "Lifestyle Tech",
-    "ProductName": "Laptop Stand",
-    "GraphicName": "laptop_stand.jpg",
-    "CostPrice": 20.00,
-    "MSRP": 39.99,
-    "QtyOnHand": 80,
-    "QtyOnBackOrder": 15,
-    "Description": "Adjustable laptop stand for comfortable and ergonomic use."
-  }
+    {
+        "Brand": "Top Brands",
+        "ProductName": "Leather Office Chair",
+        "GraphicName": "leather_office_chair.jpg",
+        "CostPrice": 120,
+        "MSRP": 249.99,
+        "QtyOnHand": 15,
+        "QtyOnBackOrder": 5,
+        "Description": "Ergonomic leather office chair with lumbar support and adjustable height."
+    },
+    {
+        "Brand": "Top Brands",
+        "ProductName": "Wooden Bookshelf",
+        "GraphicName": "wooden_bookshelf.jpg",
+        "CostPrice": 85,
+        "MSRP": 179.99,
+        "QtyOnHand": 20,
+        "QtyOnBackOrder": 7,
+        "Description": "Sturdy wooden bookshelf with five shelves for ample storage space."
+    },
+    {
+        "Brand": "Top Brands",
+        "ProductName": "Adjustable Desk Lamp",
+        "GraphicName": "desk_lamp.jpg",
+        "CostPrice": 30,
+        "MSRP": 59.99,
+        "QtyOnHand": 50,
+        "QtyOnBackOrder": 10,
+        "Description": "LED desk lamp with adjustable brightness and flexible neck."
+    },
+    {
+        "Brand": "Top Brands",
+        "ProductName": "Memory Foam Pillow",
+        "GraphicName": "memory_foam_pillow.jpg",
+        "CostPrice": 25,
+        "MSRP": 49.99,
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 20,
+        "Description": "Soft memory foam pillow providing excellent neck support and comfort."
+    },
+    {
+        "Brand": "Top Brands",
+        "ProductName": "Noise Cancelling Headphones",
+        "GraphicName": "noise_cancelling_headphones.jpg",
+        "CostPrice": 150,
+        "MSRP": 299.99,
+        "QtyOnHand": 30,
+        "QtyOnBackOrder": 10,
+        "Description": "Wireless noise cancelling headphones with superior sound quality and comfort."
+    },
+    {
+        "Brand": "Home Goods",
+        "ProductName": "Organic Cotton Bed Sheets",
+        "GraphicName": "cotton_bed_sheets.jpg",
+        "CostPrice": 40,
+        "MSRP": 89.99,
+        "QtyOnHand": 60,
+        "QtyOnBackOrder": 15,
+        "Description": "Luxurious organic cotton bed sheets with a high thread count for ultimate comfort."
+    },
+    {
+        "Brand": "Home Goods",
+        "ProductName": "Stainless Steel Water Bottle",
+        "GraphicName": "water_bottle.jpg",
+        "CostPrice": 15,
+        "MSRP": 29.99,
+        "QtyOnHand": 120,
+        "QtyOnBackOrder": 30,
+        "Description": "Insulated stainless steel water bottle that keeps drinks cold for 24 hours."
+    },
+    {
+        "Brand": "Home Goods",
+        "ProductName": "Yoga Mat",
+        "GraphicName": "yoga_mat.jpg",
+        "CostPrice": 20,
+        "MSRP": 39.99,
+        "QtyOnHand": 80,
+        "QtyOnBackOrder": 25,
+        "Description": "Non-slip yoga mat providing excellent grip and cushioning for all exercises."
+    },
+    {
+        "Brand": "Home Goods",
+        "ProductName": "Ceramic Diffuser",
+        "GraphicName": "ceramic_diffuser.jpg",
+        "CostPrice": 35,
+        "MSRP": 69.99,
+        "QtyOnHand": 40,
+        "QtyOnBackOrder": 10,
+        "Description": "Stylish ceramic diffuser for essential oils, perfect for aromatherapy."
+    },
+    {
+        "Brand": "Home Goods",
+        "ProductName": "Electric Toothbrush",
+        "GraphicName": "electric_toothbrush.jpg",
+        "CostPrice": 50,
+        "MSRP": 99.99,
+        "QtyOnHand": 70,
+        "QtyOnBackOrder": 20,
+        "Description": "Rechargeable electric toothbrush with multiple brushing modes for optimal oral hygiene."
+    },
+    {
+        "Brand": "Lifestyle Tech",
+        "ProductName": "Bluetooth Speaker",
+        "GraphicName": "bluetooth_speaker.jpg",
+        "CostPrice": 40,
+        "MSRP": 79.99,
+        "QtyOnHand": 90,
+        "QtyOnBackOrder": 10,
+        "Description": "Portable Bluetooth speaker with powerful sound and long battery life."
+    },
+    {
+        "Brand": "Lifestyle Tech",
+        "ProductName": "Wireless Mouse",
+        "GraphicName": "wireless_mouse.jpg",
+        "CostPrice": 25,
+        "MSRP": 49.99,
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 15,
+        "Description": "Ergonomic wireless mouse with customizable buttons and high precision."
+    },
+    {
+        "Brand": "Lifestyle Tech",
+        "ProductName": "Smart Watch",
+        "GraphicName": "smart_watch.jpg",
+        "CostPrice": 100,
+        "MSRP": 199.99,
+        "QtyOnHand": 50,
+        "QtyOnBackOrder": 20,
+        "Description": "Smart watch with fitness tracking, notifications, and customizable watch faces."
+    },
+    {
+        "Brand": "Lifestyle Tech",
+        "ProductName": "USB-C Hub",
+        "GraphicName": "usb_c_hub.jpg",
+        "CostPrice": 30,
+        "MSRP": 59.99,
+        "QtyOnHand": 70,
+        "QtyOnBackOrder": 10,
+        "Description": "Multi-port USB-C hub for expanding connectivity options for your devices."
+    },
+    {
+        "Brand": "Lifestyle Tech",
+        "ProductName": "Laptop Stand",
+        "GraphicName": "laptop_stand.jpg",
+        "CostPrice": 20,
+        "MSRP": 39.99,
+        "QtyOnHand": 80,
+        "QtyOnBackOrder": 15,
+        "Description": "Adjustable laptop stand for comfortable and ergonomic use."
+    }
 ]
